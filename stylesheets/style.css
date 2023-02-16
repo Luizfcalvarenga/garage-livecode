@@ -17,10 +17,10 @@ body {
   justify-content: center;
 }
 .garage-logo {
-  width: 100px;
-  border-radius: 50%;
+  width: 80px;
+  border-radius: 10%;
   border: 2px solid white;
-  margin-bottom: -50px;
+  margin-bottom: -40px;
 }
 .garage-logo img {
   width: 100%;
